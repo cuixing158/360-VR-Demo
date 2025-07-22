@@ -1,6 +1,8 @@
-# 全景VR Demo
+# 双鱼眼全景拼接Demo
 
 欢迎体验全景360度VR Demo！本应用支持多平台（Windows、Linux、macOS、Android、iOS），为dual-Fisheye图像、视频拼接、预览、交互等场景提供高效解决方案。当前提供的 `360Stitcher.exe` 仅为 Windows 演示版，欢迎在其他平台联系我们获取更多信息。
+
+下载地址：https://github.com/cuixing158/360-VR-Demo/releases/tag/V1.0.0
 
 ## 主要功能亮点
 
